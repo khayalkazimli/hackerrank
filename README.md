@@ -1,2 +1,2 @@
-# Alogirthms
+# Algorithms
 Java
