@@ -1,2 +1,2 @@
-# hackerrank
+# Alogirthms
 Java
