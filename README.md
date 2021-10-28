@@ -7,3 +7,4 @@
 |4|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[Solution](/DiagonalDifference.java) |Easy|Array|
 |5|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](/PlusMinus.java) |Easy|Array|
 |6|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](/Staircase.java) |Easy|Figure|
+|7|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](/MiniMaxSum.java) |Easy|Array|
