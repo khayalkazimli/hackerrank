@@ -6,3 +6,4 @@
 |3|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution](/AVeryBigSum.java) |Easy|Array|
 |4|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[Solution](/DiagonalDifference.java) |Easy|Array|
 |5|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](/PlusMinus.java) |Easy|Array|
+|6|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](/Staircase.java) |Easy|Figure|
