@@ -8,4 +8,4 @@
 |5|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](/PlusMinus.java) |Easy|Array|
 |6|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](/Staircase.java) |Easy|Figure|
 |7|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](/MiniMaxSum.java) |Easy|Array|
-|8|[Birthday Cake Candle](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](/BirthdayCakeCandle.java) |Easy|Array|
+|8|[Birthday Cake Candle](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](/BirthdayCakeCandles.java) |Easy|Array|
