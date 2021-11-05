@@ -10,3 +10,4 @@
 |7|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](/MiniMaxSum.java) |Easy|Array|
 |8|[Birthday Cake Candle](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](/BirthdayCakeCandles.java) |Easy|Array|
 |9|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solution](/TimeConversion.java) |Easy|Time|
+|10|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](/GradingStudents.java) |Easy|Array|
